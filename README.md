@@ -37,13 +37,19 @@ The **AI Study Planner** is a full-stack SaaS application designed to empower st
 
 ## 🎨 Visual Gallery
 
-| Dashboard Overview | Focus Mode UI |
-| :---: | :---: |
-| ![Dashboard](./screenshots/dashboard.png) | ![Focus Mode](./screenshots/focusmode.png) |
+**Dashboard Overview**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2b82e49a-0886-4b03-9dba-1e1f7dde542c" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3d81c549-f306-44be-9b6d-0d5a31e56673" />
 
-| Dark Mode View | Analytics Hub |
-| :---: | :---: |
-| ![Dark Mode](./screenshots/darkmode.png) | ![Analytics](./screenshots/analytics.png) |
+**Focus Mode**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d7b205a4-497f-4534-a8c5-0cfcd9fcbcd1" />
+
+**Planner**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e81fde14-97f1-4ea1-b0f0-137ddad262f5" />
+
+**Analytics Hub**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/554699ef-4911-4df4-a193-5aff59aac8b9" />
+
 
 ---
 
