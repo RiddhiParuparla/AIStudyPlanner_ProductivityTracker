@@ -1,6 +1,7 @@
 # 🎓 AI Study Planner & Productivity SaaS
 
-![Hero Image](./screenshots/dashboard.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4ce4c22c-9255-4ba0-b223-95fc55311cb5" />
+
 
 > **Transform your learning journey with a premium, AI-driven study ecosystem built for elite academic performance.**
 
