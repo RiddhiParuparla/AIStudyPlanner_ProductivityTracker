@@ -1,6 +1,6 @@
 # 🎓 AI Study Planner & Productivity SaaS
 
-![Hero Image](file:///C:/Users/RIDDHI/.gemini/antigravity/brain/3885b724-28cb-482f-909a-e266ebb97401/media__1776174098684.png)
+![Hero Image](./screenshots/dashboard.png)
 
 > **Transform your learning journey with a premium, AI-driven study ecosystem built for elite academic performance.**
 
@@ -36,15 +36,13 @@ The **AI Study Planner** is a full-stack SaaS application designed to empower st
 
 ## 🎨 Visual Gallery
 
-````carousel
-![Dashboard Overview](file:///C:/Users/RIDDHI/.gemini/antigravity/brain/3885b724-28cb-482f-909a-e266ebb97401/media__1776174098684.png)
-<!-- slide -->
-![Dark Mode View](file:///C:/Users/RIDDHI/.gemini/antigravity/brain/3885b724-28cb-482f-909a-e266ebb97401/media__1776096013937.png)
-<!-- slide -->
-![Focus Mode UI](file:///C:/Users/RIDDHI/.gemini/antigravity/brain/3885b724-28cb-482f-909a-e266ebb97401/media__1775820958953.png)
-<!-- slide -->
-![Analytics Hub](file:///C:/Users/RIDDHI/.gemini/antigravity/brain/3885b724-28cb-482f-909a-e266ebb97401/media__1775820769756.png)
-````
+| Dashboard Overview | Focus Mode UI |
+| :---: | :---: |
+| ![Dashboard](./screenshots/dashboard.png) | ![Focus Mode](./screenshots/focusmode.png) |
+
+| Dark Mode View | Analytics Hub |
+| :---: | :---: |
+| ![Dark Mode](./screenshots/darkmode.png) | ![Analytics](./screenshots/analytics.png) |
 
 ---
 
@@ -109,12 +107,8 @@ npm start
 StudyPlannerWithAI/
 ├── client/              # React frontend & Tailwind config
 ├── server/              # Express backend & API modules
-│   ├── modules/         # Domain-driven backend organization
-│   │   ├── auth/        # Authentication & User models
-│   │   ├── task/        # Task management logic
-│   │   ├── analytics/   # Study data aggregation
-│   │   └── admin/       # System administration & Logs
-└── .github/             # CI/CD configurations
+├── screenshots/         # UI Showcase images
+└── README.md            # Project documentation
 ```
 
 ---
