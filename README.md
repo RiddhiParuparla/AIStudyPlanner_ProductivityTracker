@@ -116,5 +116,3 @@ StudyPlannerWithAI/
 > [!TIP]
 > **Pro Tip**: Use the **Focus Mode** (Target icon in the Dashboard) for 25 minutes to maximize your focus score and earn bonus XP!
 
----
-*Created with ❤️ for students who want to build better habits.*
